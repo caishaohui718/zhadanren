@@ -50,11 +50,11 @@ function resolve(dir) {
 const {
     override,
     useBabelRc,
-    fixBabelImports,
+    // fixBabelImports,
     addPostcssPlugins,
     addLessLoader,
     addWebpackAlias,
-    addTslintLoader,
+    // addTslintLoader,
 } = require("customize-cra");
 
 
